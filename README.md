@@ -7,8 +7,6 @@
 </a>
 <a href="mailto:kkhk452@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Location-Indore,%20MP-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
