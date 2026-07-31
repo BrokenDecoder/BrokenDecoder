@@ -7,13 +7,6 @@
 </a>
 <a href="mailto:kkhk452@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Building+scalable+web+apps+%26+deep+learning+systems;Architecting+AI-powered+platforms+that+ship;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+AWS+%C2%B7+Neural+Networks" alt="Typing SVG" />
-
-</div>
-
 <br/>
 
 ## 🧭 About Me
