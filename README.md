@@ -185,7 +185,6 @@ Coursework: Quantum Mechanics, Signal Processing, Computational Physics, Linear 
 <a href="mailto:kkhk452@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/BrokenDecoder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Phone-+91--88788--65757-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 <br/><br/>
 
